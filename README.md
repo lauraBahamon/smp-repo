@@ -21,10 +21,12 @@ the software simplifies the quality control, and prepares them for
 publication
 
 **Who are the project participants that deal with this software?
-(project/partner):**
+(project/partner/id):**
 
-- Tina Mustermann (https://orcid.org/XXXX-XXXX-XXXX-X012), MPI YYY
-- Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-X345), MPI YYY
+-   Tina Musterfrau (https://orcid.org/0000-0000-0000-0123), Leiterin
+    der Abteilung ABC, MPI XYZ
+-   Fred Feuerstein (https://orcid.org/0000-0000-0000-4567),
+    Softwareentwickler der Abteilung ABC, MPI XYZ
 
 **What licences are on the third-party software components?
 (smp/software-license):**
