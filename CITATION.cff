@@ -1,17 +1,18 @@
-cff-version: 1.0.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 
--   family-names: "Pérez"
-    given-names: "Pepito"
-    orcid: "https://orcid.org/0000-0000-0000-8901"
-    affiliation: "University of Bla"
--   family-names: "Müller"
-    given-names: "Andrea"
-    orcid: "https://orcid.org/0000-0000-0000-2345"
-    affiliation: "University of Bla"
+-   family-names: "Walter"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0001-6807-5007"
+    affiliation: "Max Planck Digital Library & Max Planck Institute for
+    Chemistry"
+-   family-names: "Bahamón Jiménez"
+    given-names: "Laura"
+    orcid: "https://orcid.org/0009-0003-9330-9292"
+    affiliation: "Max Planck Digital Library"
 
-title: "Mein erstes Software Development Projekt (als Admin)"
+title: "Weather Analyser"
 version: {here comes the software version}
 doi: 10.5281/zenodo.1234
-date-released: 2026-09-30
+date-released: 2027-04-30
