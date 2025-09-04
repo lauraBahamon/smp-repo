@@ -1,6 +1,5 @@
 # Readme created with RDMO
 
-bla bla
 **What is the title of the software project? (project/title):**
 
 Weather Analyser
@@ -24,11 +23,14 @@ publication
 **Who are the project participants that deal with this software?
 (project/partner/id):**
 
--   David Walter (https://orcid.org/0000-0001-6807-5007), Research Data
-    Management at Max Planck Digital Library & Data management R/Y Eugen
-    Seibold, PANGAEA data editor at Max Planck Institute for Chemistry
--   Laura Bahamón Jiménez (https://orcid.org/0009-0003-9330-9292),
-    Full-Stack Developer at Max Planck Digital Library
+- David Walter (https://orcid.org/0000-0001-6807-5007 from request),
+  Research Data Management at Max Planck Digital Library & Data
+  management R/Y Eugen Seibold, PANGAEA data editor at Max Planck
+  Institute for Chemistry
+- Michael Franke (https://orcid.org/0000-0002-2661-8242 from request),
+  Max Planck Digital Library
+- Laura Bahamón Jiménez (https://orcid.org/0009-0003-9330-9292 from
+  request), Full-Stack Developer at Max Planck Digital Library
 
 **What licences are on the third-party software components?
 (smp/software-license):**
